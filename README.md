@@ -9,7 +9,7 @@ It integrates Excel Dashboarding with SQL-based data analysis, showcasing the ab
 
 🎯 Business Problem
 
-BlinkIT wanted to identify how different outlet types and item categories impact overall sales performance, pricing trends, and visibility across stores.
+BlinkIT aimed to determine how various outlet types and item categories influence overall sales performance, pricing trends, and visibility across stores.
 As a Data Analyst, the goal was to:
 
 Understand which outlet types drive the highest sales.
@@ -47,9 +47,13 @@ BlinkIt(SQL).pdf
 📈 Key Insights
 
 ✅ Supermarket Type 1 outlets contributed the highest sales share (~40%).
+
 ✅ Low-fat items had slightly better sales than regular-fat ones.
+
 ✅ Fruits & Vegetables and Snack Foods emerged as top-performing categories.
+
 ✅ Sales showed a positive correlation with MRP and Outlet Establishment Year.
+
 
 🎨 Dashboard Highlights
 
@@ -68,5 +72,7 @@ BlinkIt(SQL).pdf
   📬 Contact
 
 📧 Email: 2123nidhisingh@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/nidhisi23/
+
 📊 GitHub: https://github.com/Ni-dhi-singh
